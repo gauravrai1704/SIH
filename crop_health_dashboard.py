@@ -555,4 +555,4 @@ elif options == "Chatbot":
         
 # Footer
 st.sidebar.markdown("---")
-st.sidebar.info("AI-Powered Agriculure Assitant | ©️ 2025")
+st.sidebar.info("AI-Powered Agriculure Assistant | ©️ 2025")
