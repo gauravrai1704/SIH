@@ -28,7 +28,9 @@ This project implements an advanced AI-driven platform for crop health monitorin
 ## Model Highlights & Achievements
 
 - **Best Crop Classification:**  
-  Random Forest trained on hyperspectral Salinas data achieved high accuracy, providing reliable pixel-level crop type classification.
+  Random Forest trained on hyperspectral Salinas data achieved high accuracy, providing reliable pixel-level crop type classification.Our Random Forest model achieved a classification accuracy of 95%, which is comparable to the benchmark accuracy reported by Melgani and Bruzzone (2004) using support vector machines for hyperspectral remote sensing image classification. This demonstrates the strong performance of ensemble learning methods in this field
+LINK : https://scispace.com/pdf/forest-density-and-orchard-classification-in-hyrcanian-320eunq69h.pdf
+
 
 - **Vegetation Indices:**  
   NDVI, EVI, NDWI, and MSAVI2 calculated from multispectral and hyperspectral input data for precise vegetation and moisture status mapping.
